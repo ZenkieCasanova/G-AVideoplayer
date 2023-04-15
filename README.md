@@ -40,7 +40,7 @@ Details
 
 ## Authors
 
-- [@ZenkieCasanova](https://www.github.com/octokatherine)
+- [@ZenkieCasanova](https://www.github.com/ZenkieCasanova)
 
 
 ## License
